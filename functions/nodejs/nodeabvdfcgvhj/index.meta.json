@@ -1,0 +1,16 @@
+{
+  "apiID": "package_3f3c87__c__function_m2ofkfxljaabq",
+  "apiName": "nodeabvdfcgvhj",
+  "label": {
+    "zh_CN": "nodeabvdfcgvhj",
+    "en_US": "nodeabvdfcgvhj"
+  },
+  "description": {
+    "zh_CN": "自定义函数",
+    "en_US": "Custom Function"
+  },
+  "longTaskMode": false,
+  "frontendSDKInvokable": false,
+  "input": [],
+  "output": []
+}
